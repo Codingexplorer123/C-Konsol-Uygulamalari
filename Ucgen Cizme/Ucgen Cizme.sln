@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucgen Cizme", "Ucgen Cizme.csproj", "{11809EA0-1B03-4572-B896-6383AB5917FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11809EA0-1B03-4572-B896-6383AB5917FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11809EA0-1B03-4572-B896-6383AB5917FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11809EA0-1B03-4572-B896-6383AB5917FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11809EA0-1B03-4572-B896-6383AB5917FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170C85D8-F3B8-40F3-9600-4651F5118D1F}
+	EndGlobalSection
+EndGlobal
