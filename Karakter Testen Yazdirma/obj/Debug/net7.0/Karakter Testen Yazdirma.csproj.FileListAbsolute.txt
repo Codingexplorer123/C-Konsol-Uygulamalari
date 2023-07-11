@@ -1,0 +1,15 @@
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\bin\Debug\net7.0\Karakter Testen Yazdirma.exe
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\bin\Debug\net7.0\Karakter Testen Yazdirma.deps.json
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\bin\Debug\net7.0\Karakter Testen Yazdirma.runtimeconfig.json
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\bin\Debug\net7.0\Karakter Testen Yazdirma.dll
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\bin\Debug\net7.0\Karakter Testen Yazdirma.pdb
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.csproj.AssemblyReference.cache
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.AssemblyInfoInputs.cache
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.AssemblyInfo.cs
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.dll
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\refint\Karakter Testen Yazdirma.dll
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.pdb
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\Karakter Testen Yazdirma.genruntimeconfig.cache
+C:\Users\Berk\Desktop\Karakter Tersten Yazdirma\Karakter Testen Yazdirma\obj\Debug\net7.0\ref\Karakter Testen Yazdirma.dll
