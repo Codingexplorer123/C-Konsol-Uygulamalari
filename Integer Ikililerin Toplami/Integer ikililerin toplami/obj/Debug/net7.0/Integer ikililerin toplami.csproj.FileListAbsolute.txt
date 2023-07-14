@@ -1,0 +1,15 @@
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\bin\Debug\net7.0\Integer ikililerin toplami.exe
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\bin\Debug\net7.0\Integer ikililerin toplami.deps.json
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\bin\Debug\net7.0\Integer ikililerin toplami.runtimeconfig.json
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\bin\Debug\net7.0\Integer ikililerin toplami.dll
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\bin\Debug\net7.0\Integer ikililerin toplami.pdb
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.csproj.AssemblyReference.cache
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.AssemblyInfoInputs.cache
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.AssemblyInfo.cs
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.dll
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\refint\Integer ikililerin toplami.dll
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.pdb
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\Integer ikililerin toplami.genruntimeconfig.cache
+C:\Users\Berk\Desktop\Integer Ikililerin Toplami\Integer ikililerin toplami\obj\Debug\net7.0\ref\Integer ikililerin toplami.dll
