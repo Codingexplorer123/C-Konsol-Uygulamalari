@@ -13,8 +13,8 @@
                 
                 KullaniciIslemleri kullaniciIslemleri = new KullaniciIslemleri();
                 kullaniciIslemleri.KullaniciKontrolu(user);
-                Kategoriler kategoriler = new Kategoriler();
-                kategoriler.KategoriSecimi();
+               
+                kategoriler1.KategoriSecimi();
                 
             } while (CikisIslemi());
             kategoriler1.OylamaSonucu();
