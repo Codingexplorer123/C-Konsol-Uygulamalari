@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATM_Uygulamasi
+namespace ATM_Uygulama
 {
     public class Menu
     {
@@ -20,7 +20,7 @@ namespace ATM_Uygulamasi
         }
         public bool AnaMenuKontrol(byte secim)
         {
-            
+
             if (!byte.TryParse(Console.ReadLine(), out secim) || secim < 1 || secim > 4)
             //Eger consoldan alinan deger byte donusturulemiyosa ve secinlen deger 1 den kucuk yada deger 4 ten buyukse
             {
@@ -32,8 +32,8 @@ namespace ATM_Uygulamasi
                 Console.WriteLine("Talebiniz alinmistir.");
                 return false;
             }
-         // Buradaki method ile girilen deger gecerli bir deger olana kadar menu gosterilmeye devam edip donguye sokuluyor. Kullanici
-         // donguden ancak dogru bir deger girince cikabiliyor.
+            // Buradaki method ile girilen deger gecerli bir deger olana kadar menu gosterilmeye devam edip donguye sokuluyor. Kullanici
+            // donguden ancak dogru bir deger girince cikabiliyor.
         }
     }
 }

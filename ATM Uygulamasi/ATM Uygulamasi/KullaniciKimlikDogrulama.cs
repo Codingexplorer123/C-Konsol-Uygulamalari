@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATM_Uygulamasi
+namespace ATM_Uygulama
 {
     public class KullaniciKimlikDogrulama
     {
@@ -45,8 +45,8 @@ namespace ATM_Uygulamasi
                     Console.WriteLine("Sifresiniz pozift rakamlardan olusmalidir.");
                     denemeHakki--;
                 }
-               
-            } while (denemeHakki >0);
+
+            } while (denemeHakki > 0);
             Console.WriteLine("4 kere hatali girdiginizden hesabiniz bloke edilmistir");
             return false;
 

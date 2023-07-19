@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATM_Uygulamasi
+namespace ATM_Uygulama
 {
     public class Rapor
     {
-        Transaction kayit = new Transaction();
-        public void GunSonuIslemi()
+
+        public void GunSonuIslemi(List<Transaction> transactionkayidi)
         {
             Console.WriteLine("Gun sonu Raporu olusturuluyor");
 

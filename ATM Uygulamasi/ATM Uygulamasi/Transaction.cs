@@ -4,33 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATM_Uygulamasi
+namespace ATM_Uygulama
 {
-    
     public class Transaction
     {
-        public int KullaniciID { get;}
-        public string IslemTuru { get;}
-        public double Tutar { get; }
+        public int KullaniciID { get; set; }
+        public string IslemTuru { get; set; }
+        public double Tutar { get; set; }
 
-        public DateTime Tarih { get;}
+        public DateTime Tarih { get; set; }
 
-        List<Transaction> transactionkayidi = new List<Transaction>();
-        public Transaction (int kullaniciID , string islemTuru, double tutar)
+
+        public Transaction(int kullaniciID, string islemTuru, double tutar)
         {
             KullaniciID = kullaniciID;
             IslemTuru = islemTuru;
             Tutar = tutar;
             Tarih = DateTime.Now;
         }
-        
-        
-
-      
-        
-        
-
     }
-
-  
 }
